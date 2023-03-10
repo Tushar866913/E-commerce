@@ -1,0 +1,21 @@
+.maincont{
+    border: 1px solid rgb(22, 21, 21);
+    min-height: 510px;
+    margin-bottom: 0px;
+    background-image: url('https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    opacity: 0.3;
+    text-align: center;
+}
+.maincont h1{
+    margin-top: 160px;
+    color:blanchedalmond;
+    font-size: 60px;
+    text-shadow: 3px 3px black;
+    margin-bottom: 0px;
+}
+.maincont h3{
+    margin-top: 10PX;
+}

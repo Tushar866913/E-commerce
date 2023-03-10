@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(153, 159, 165);
+    padding: 0px 20px;
+    align-items: center;
+    box-shadow: 1px 1px 3px blanchedalmond;
+    margin-top: -20px;
+   
+   
+}
+.navPart1{
+    display: flex;
+    justify-content: space-between;
+}
+.navPart1 ul{
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    align-items: center;
+}
+.navPart2{
+    display: flex;
+    gap: 30px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    border-bottom: 2px solid black;
+}
+h4{
+    cursor: pointer;
+}
+.count{
+    border: 1px solid gray;
+    background-color: aliceblue;
+    padding: 5px 8px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
